@@ -1,0 +1,10 @@
+streamlit
+pyautogui
+SpeechRecognition
+pypiwin32
+google-generativeai
+gtts
+playsound==1.2.2
+ultralytics
+opencv-python
+pyaudio
